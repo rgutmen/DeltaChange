@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ATAS.Indicators">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\ATAS Platform\ATAS.Indicators.dll</HintPath>
+    </Reference>
+    <Reference Include="ATAS.Indicators.Technical">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\ATAS Platform\ATAS.Indicators.Technical.dll</HintPath>
+    </Reference>
+    <Reference Include="OFT.Attributes">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\ATAS Platform\OFT.Attributes.dll</HintPath>
+    </Reference>
+    <Reference Include="OFT.Platform.resources">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\ATAS Platform\es-es\OFT.Platform.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="OFT.Rendering">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\ATAS Platform\OFT.Rendering.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\PresentationCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Utils.Common">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\ATAS Platform\Utils.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
