@@ -33,17 +33,17 @@ This indicator does the difference between the currentCandle Delta and previousC
 There are four pairs of settings to configure in this indicator, one numeric under "Settings" section, and other under "Drawing".
 
 - Reversals: Useful for entries.
-	- From Downtrend to Uptrend: Assuming that a downtrend matchs with negative deltas, if the current candle has a positive delta, it will means that more buyers are participating than in previous candles, which it could means a possible reversal.
+	- **From Downtrend to Uptrend**: Assuming that a downtrend matchs with negative deltas, if the current candle has a positive delta, it will means that more buyers are participating than in previous candles, which it could means a possible reversal.
 		- Negative to positive: It will draw a symbol if delta is higher than this parameter.
 		- UpTrend - Negative to positive: Symbol to be drawn below the candle showing possible reversal.
-	- From Uptrend to Downtrend: Assuming that an uptrend matchs with positive deltas, if the current candle has a negative delta, it will means that more sellers are participating than in previous candles, which it could means a possible reversal.
+	- **From Uptrend to Downtrend**: Assuming that an uptrend matchs with positive deltas, if the current candle has a negative delta, it will means that more sellers are participating than in previous candles, which it could means a possible reversal.
 		- Positive to negative: It will draw a symbol if delta is lower than this parameter.
 		- Downtrend - Positive to negative: Symbol to be drawn above the candle showing possible reversal.
 - Continuity: Useful to extend the Take Profit.
-	- 📉 Downtrend: Assuming that a downtrend matchs with negative deltas, if the current candle has a negative delta, it will means that even more sellers are participating than in previous candles, which it could means strenght. 
+	- 📉 **Downtrend**: Assuming that a downtrend matchs with negative deltas, if the current candle has a negative delta, it will means that even more sellers are participating than in previous candles, which it could means strenght. 
 		- Negative to negative: It will draw a symbol if delta is lower than this parameter.
 		- Downtrend - Strenght: Symbol to be drawn above the candle showing downtrend strenght.
-	- 📈 Uptrend: Assuming that an uptrend matchs with positive deltas, if the current candle has a positive delta, it will means that even more buyers are participating than in previous candles, which it could means strenght. 
+	- 📈 **Uptrend**: Assuming that an uptrend matchs with positive deltas, if the current candle has a positive delta, it will means that even more buyers are participating than in previous candles, which it could means strenght. 
 		- Positive to positive: It will draw a symbol if delta is higher than this parameter.
 		- Uptrend - Strenght: Symbol to be drawn below the candle showing uptrend strenght.
 
