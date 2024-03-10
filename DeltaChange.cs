@@ -75,7 +75,7 @@ namespace ATAS.Indicators.Technical
                 }
             }
         }
-        private readonly ValueDataSeries _p2n_color = new ValueDataSeries("P2N_color", "DownTrend - Positive - to negative")
+        private readonly ValueDataSeries _p2n_color = new ValueDataSeries("P2N_color", "DownTrend - Positive to negative")
         {
             Color = Colors.Yellow,
             VisualType = VisualMode.DownArrow
