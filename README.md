@@ -22,7 +22,9 @@ Knowledge about:
 
 3 - And add "Delta Imbalance" indicator from the list of indicators.
 <div style="text-align: center;">
+
 ![image](https://github.com/rgutmen/DeltaChange/assets/67153853/e0c0c993-495d-4d4d-9e7d-ad8ce121e814)
+
 </div>
 
 ## Functionality
