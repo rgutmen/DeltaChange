@@ -8,10 +8,10 @@ Atas:
 
     https://atas.net
 
-Knowledge about: 
-	- Delta -> The most important point for this indicator.
-	- Orderflow
-	- The crossing order method
+Knowledge about:
+- Delta -> The most important point for this indicator.
+- Orderflow
+- The crossing order method
     
 ## How to install?
 1 - Copy the file on:
